@@ -19,6 +19,8 @@ const (
 
 func main() {
 	fmt.Println(getSituation())
+	// hash := "b0ZBkYcTTxkRZHa0++N0S8/82qRrE0AjvmXgMImwQUE="
+	// fmt.Println(len(hash))
 }
 
 type Situation struct {
